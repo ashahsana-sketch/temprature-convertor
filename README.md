@@ -35,7 +35,7 @@ temperature-converter/
 
 1. Clone the repository.
   ```bash
-git clone https://github.com/your-username/temperature-converter.git
+git clone https://github.com/ashahsana-sketch/temperature-converter.git
 ```
 
 2. Open the project folder.
